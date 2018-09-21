@@ -9,3 +9,10 @@
     </style>
 
 </resources>
+
+<!-- ERRO NO THEME:
+delete these from build.gradle if you have them:
+'com.android.support:appcompat-v7:27.1.1'
+'com.android.support:design:27.1.1'
+then sync, then undo delete, then sync again.
+-->
